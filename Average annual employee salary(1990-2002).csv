@@ -1,0 +1,189 @@
+gender,dept_name,salary,calender_year
+M,Marketing,70294.74,1990
+M,Marketing,69101.13,1991
+M,Marketing,67809.07,1992
+M,Marketing,66678.14,1993
+M,Marketing,65862.18,1994
+M,Marketing,67032.43,1995
+M,Marketing,65153.42,1996
+M,Marketing,69030.63,1997
+M,Marketing,67996.37,1998
+M,Marketing,62222.77,1999
+M,Finance,69338.91,1990
+M,Finance,64539.49,1991
+M,Finance,69313.92,1992
+M,Finance,65470.96,1993
+M,Finance,64492.71,1994
+M,Finance,66851.97,1995
+M,Finance,64973.95,1996
+M,Finance,63503.55,1997
+M,Finance,66675.43,1998
+M,Finance,62456.12,1999
+M,Finance,91470.67,2000
+M,"Human Resources",53395.29,1990
+M,"Human Resources",52865.22,1991
+M,"Human Resources",52300.24,1992
+M,"Human Resources",51515.91,1993
+M,"Human Resources",49759.53,1994
+M,"Human Resources",51335.20,1995
+M,"Human Resources",48787.93,1996
+M,"Human Resources",50352.09,1997
+M,"Human Resources",49059.03,1998
+M,"Human Resources",48000.53,1999
+M,"Human Resources",48601.00,2000
+M,Production,57478.51,1990
+M,Production,57008.58,1991
+M,Production,57049.59,1992
+M,Production,56900.53,1993
+M,Production,54398.87,1994
+M,Production,54290.39,1995
+M,Production,52875.63,1996
+M,Production,53701.76,1997
+M,Production,53511.91,1998
+M,Production,51202.09,1999
+M,Production,64783.33,2000
+M,Development,58149.74,1990
+M,Development,57088.44,1991
+M,Development,56204.98,1992
+M,Development,56009.75,1993
+M,Development,54231.03,1994
+M,Development,54585.58,1995
+M,Development,54716.02,1996
+M,Development,54195.28,1997
+M,Development,52458.09,1998
+M,Development,52243.58,1999
+M,"Quality Management",55945.65,1990
+M,"Quality Management",56583.86,1991
+M,"Quality Management",53898.15,1992
+M,"Quality Management",52459.94,1993
+M,"Quality Management",53099.96,1994
+M,"Quality Management",51754.60,1995
+M,"Quality Management",51069.01,1996
+M,"Quality Management",51779.61,1997
+M,"Quality Management",52259.23,1998
+M,"Quality Management",49605.05,1999
+M,Sales,79620.26,1990
+M,Sales,79620.64,1991
+M,Sales,77894.26,1992
+M,Sales,77200.56,1993
+M,Sales,77335.10,1994
+M,Sales,75242.95,1995
+M,Sales,74686.64,1996
+M,Sales,72509.00,1997
+M,Sales,76006.21,1998
+M,Sales,75299.14,1999
+M,Research,58823.21,1990
+M,Research,56950.38,1991
+M,Research,55338.01,1992
+M,Research,56966.82,1993
+M,Research,55657.08,1994
+M,Research,53958.70,1995
+M,Research,54382.78,1996
+M,Research,56442.59,1997
+M,Research,53331.34,1998
+M,Research,51863.02,1999
+M,"Customer Service",56933.57,1990
+M,"Customer Service",56180.08,1991
+M,"Customer Service",56593.78,1992
+M,"Customer Service",55422.51,1993
+M,"Customer Service",55938.64,1994
+M,"Customer Service",53918.59,1995
+M,"Customer Service",52044.37,1996
+M,"Customer Service",52861.71,1997
+M,"Customer Service",53550.09,1998
+M,"Customer Service",48909.24,1999
+M,"Customer Service",93051.00,2000
+F,Marketing,67709.14,1990
+F,Marketing,66648.05,1991
+F,Marketing,66295.31,1992
+F,Marketing,64940.71,1993
+F,Marketing,61867.88,1994
+F,Marketing,65809.53,1995
+F,Marketing,62181.02,1996
+F,Marketing,59649.05,1997
+F,Marketing,61708.53,1998
+F,Marketing,63770.21,1999
+F,Marketing,60243.50,2000
+F,Finance,65536.54,1990
+F,Finance,66202.25,1991
+F,Finance,62817.52,1992
+F,Finance,62605.80,1993
+F,Finance,64420.39,1994
+F,Finance,61741.45,1995
+F,Finance,63601.38,1996
+F,Finance,60165.44,1997
+F,Finance,63829.67,1998
+F,Finance,61645.04,1999
+F,"Human Resources",51297.95,1990
+F,"Human Resources",50408.05,1991
+F,"Human Resources",50445.13,1992
+F,"Human Resources",49478.42,1993
+F,"Human Resources",49405.94,1994
+F,"Human Resources",47609.61,1995
+F,"Human Resources",47787.91,1996
+F,"Human Resources",45715.04,1997
+F,"Human Resources",46244.34,1998
+F,"Human Resources",55224.53,1999
+F,"Human Resources",59125.33,2000
+F,Production,55066.87,1990
+F,Production,54769.05,1991
+F,Production,53048.98,1992
+F,Production,53207.60,1993
+F,Production,51030.05,1994
+F,Production,50566.18,1995
+F,Production,50617.60,1996
+F,Production,49739.00,1997
+F,Production,48276.21,1998
+F,Production,44949.49,1999
+F,Development,55223.18,1990
+F,Development,54428.80,1991
+F,Development,53632.40,1992
+F,Development,52676.07,1993
+F,Development,52290.20,1994
+F,Development,50770.31,1995
+F,Development,49993.01,1996
+F,Development,47890.55,1997
+F,Development,47735.02,1998
+F,Development,44747.64,1999
+F,"Quality Management",52542.84,1990
+F,"Quality Management",51657.65,1991
+F,"Quality Management",51834.45,1992
+F,"Quality Management",52873.17,1993
+F,"Quality Management",48723.52,1994
+F,"Quality Management",48281.39,1995
+F,"Quality Management",47823.14,1996
+F,"Quality Management",50191.07,1997
+F,"Quality Management",46221.80,1998
+F,"Quality Management",49314.85,1999
+F,Sales,77110.09,1990
+F,Sales,74423.87,1991
+F,Sales,74550.94,1992
+F,Sales,74804.93,1993
+F,Sales,72093.39,1994
+F,Sales,72522.05,1995
+F,Sales,71751.30,1996
+F,Sales,69347.40,1997
+F,Sales,69688.83,1998
+F,Sales,71996.80,1999
+F,Sales,66539.00,2000
+F,Research,55660.93,1990
+F,Research,54985.99,1991
+F,Research,53471.81,1992
+F,Research,53787.73,1993
+F,Research,51519.33,1994
+F,Research,50250.85,1995
+F,Research,51777.53,1996
+F,Research,48924.24,1997
+F,Research,50040.18,1998
+F,Research,50416.38,1999
+F,"Customer Service",55682.83,1990
+F,"Customer Service",53251.99,1991
+F,"Customer Service",53717.89,1992
+F,"Customer Service",52795.00,1993
+F,"Customer Service",49449.92,1994
+F,"Customer Service",51845.14,1995
+F,"Customer Service",50104.75,1996
+F,"Customer Service",54297.46,1997
+F,"Customer Service",49499.98,1998
+F,"Customer Service",43777.07,1999
+F,"Customer Service",59562.50,2000
