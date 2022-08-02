@@ -9,7 +9,7 @@ The following analysis has been performed on the dataset-
 - Average annual male vs female employee salary trend over the years
 - Department-wise average male vs female employee salary
 
-###Dashboard👇
+### Dashboard👇
 ![Alt text](Dashboard.png?raw=true "Optional Title")
 
 The database can be found [here](https://www.dropbox.com/s/lhj4axkaupjhmbq/employees_mod.sql?dl=0).
